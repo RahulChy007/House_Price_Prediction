@@ -4,3 +4,4 @@ venv/
 .env
 # *.pkl
 *.ipynb_checkpoints/
+models/mo.py
