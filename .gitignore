@@ -1,7 +1,10 @@
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.pkl
 venv/
+env/
 .env
-# *.pkl
-*.ipynb_checkpoints/
-models/mo.py
+models/*
+data/raw/*
